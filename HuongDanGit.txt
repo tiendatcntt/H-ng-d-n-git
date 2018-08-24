@@ -1,0 +1,11 @@
+--bat dau
+git init
+git add *
+git commit -m ""
+git remote add origin pathgithub
+git push --force origin master
+
+--them
+git add *
+git comit -m "abcxyz"
+git push origin master
